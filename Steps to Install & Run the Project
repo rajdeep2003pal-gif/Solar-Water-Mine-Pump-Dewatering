@@ -1,0 +1,73 @@
+1. Site Preparation
+
+Conduct site survey for sunlight, pump location, and safety.
+
+Clear and level ground for solar array installation.
+
+Identify cable routing and battery room location.
+
+2. System Installation
+Solar Plant Setup
+
+Install mounting structures and fix solar panels.
+
+Install MPPT charge controller + sensors + tracker (if used).
+
+Connect DC cables, protection devices, earthing & surge protectors.
+
+Battery & Power System
+
+Install LiFePO₄ battery bank (80 kWh or chosen capacity).
+
+Install BMS and battery protection circuitry.
+
+Connect hybrid system: Solar → Battery → Pump Controller.
+
+Pump & Motor Integration
+
+Install energy-efficient pump (21 kW).
+
+Connect to VFD/soft starter for controlled startup.
+
+Link pump controller to IoT system for monitoring.
+
+3. System Activation & Testing
+Pre-Start Checks
+
+Verify panel voltage and MPPT functioning.
+
+Check battery charge, temperature, and BMS logs.
+
+Test pump dry-run protections and flow sensors.
+
+System Start-Up
+
+Start pump in solar-battery hybrid mode.
+
+Monitor power flow (solar → battery → pump).
+
+Validate flow rate, head pressure & amperage.
+
+Performance Testing
+
+2–3 days trial run under actual mining conditions.
+
+Calibrate tracking, dust-cleaning system & IoT alerts.
+
+Compare diesel vs. solar performance.
+
+4. Operation & Monitoring
+
+Real-time tracking via IoT dashboard (energy, pump status, battery).
+
+Daily automatic dust cleaning & panel alignment.
+
+Periodic maintenance (monthly inspection, quarterly service).
+
+5. Handover & Training
+
+Train HCL personnel for routine operation.
+
+Provide documentation: SOP, safety guidelines, troubleshooting.
+
+Set up maintenance schedule and emergency support plan.
